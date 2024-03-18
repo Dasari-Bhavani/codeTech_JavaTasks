@@ -29,4 +29,5 @@ Code Implementation:
 
 
 Conclusion:
+
 The simple calculator application provides users with a basic tool for performing arithmetic calculations through an intuitive graphical interface. It showcases fundamental concepts of event-driven programming and demonstrates the capabilities of Java's Swing library.
