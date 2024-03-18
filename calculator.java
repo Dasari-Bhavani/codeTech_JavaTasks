@@ -129,7 +129,7 @@ public class calculator implements ActionListener {
         f.add(l);
         f.add(t1);
         f.add(p);
-        // f.add(p1);
+   
         f.setSize(300, 300);
         f.setVisible(true);
 
